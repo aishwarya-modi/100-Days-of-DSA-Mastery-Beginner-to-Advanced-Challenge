@@ -1,0 +1,8 @@
+Introduction to Hashing
+Hashing is a technique used in computer science to map data of arbitrary size to fixed-size values. It is commonly used for data retrieval and storage. A hash function is a mathematical function that converts an input into a fixed-size value called a hash code or hash value.
+
+Example
+Suppose we have a list of student names and we want to store their scores in a data structure for quick access. We can use hashing to achieve this.
+
+# Define a hash table to store scores by student name
+scores = {}

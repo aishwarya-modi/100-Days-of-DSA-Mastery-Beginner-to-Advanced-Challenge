@@ -1,0 +1,15 @@
+Introduction to Arrays
+Array is a fundamental data structure used in programming for storing a collection of elements of the same type in contiguous memory locations. It provides a convenient way to organize and access data.
+
+Example
+Suppose we want to store the scores of students in a class. We can use an array to hold these scores. Let's declare an array named scores to store the scores:
+
+In Python:
+scores = [0, 0, 0, 0, 0] # Declares a list named "scores" initialized with 5 zeros
+
+Arrays in Go are fixed-size sequences of elements of the same type. They provide a way to store multiple elements of the same type under a single name.
+
+Example
+Suppose we want to store the scores of students in a class. We can use an array to hold these scores. Let's declare an array named scores to store the scores:
+var scores [5]int // Declares an array named "scores" capable of holding 5 integer values
+You can access individual elements of the array using their indices..
